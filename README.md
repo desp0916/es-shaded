@@ -2,9 +2,9 @@
 
 ## What is this?
 
-This is the shaded jar for ElasticSearch 2.2.1. I embed this jar to my [Storm](http://storm.apache.org/) uber jar. I encountered the shaded problem about ElasticSearch 2.2.1 for several days, and after many try-and-errors, I have finally figured out the solution. 
+This is the shaded jar for ElasticSearch 2.2.1. I embed this jar to [my Storm uber jar](https://github.com/desp0916/LearnStorm/). I encountered the shaded problem about ElasticSearch 2.2.1 for several days, and after many try-and-errors, I have finally figured out the solution. 
 
-If you are facing the same problem, this project might help you. You can modify `pom.xml` for your needs or resolve the problem about dependency conflicts.
+If you are facing the same problem I met, this project might help you. You can modify `pom.xml` for your needs or resolve the problem about dependency conflicts.
 
 You are also encouraged to read the following references:
 
