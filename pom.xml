@@ -82,7 +82,7 @@ http://stackoverflow.com/questions/13620281/what-is-the-maven-shade-plugin-used-
 									<!-- include>com.unboundid:unboundid-ldapsdk</include -->
 									<!-- include>dk.brics.automaton:automaton</include -->
 									<include>io.netty:netty</include>
-									<!-- include>joda-time:joda-time</include-->
+									<include>joda-time:joda-time</include>
 									<include>net.sf.trove4j:trove4j</include>
 									<include>org.apache.lucene:lucene-analyzers-common</include>
 									<include>org.apache.lucene:lucene-backward-codecs</include>
