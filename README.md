@@ -1,8 +1,8 @@
-# Shaded Jar for ElasticSearch 2.3.2
+# Shaded Jar for ElasticSearch 2.3.3
 
 ## What is this?
 
-This is the shaded jar for ElasticSearch 2.3.2. I embed this jar to [my Storm uber jar](https://github.com/desp0916/LearnStorm/). I encountered the shaded problem about ElasticSearch 2.3.2 for several days, and after many try-and-errors, I have finally figured out the solution. 
+This is the shaded jar for ElasticSearch 2.3.3. I embed this jar to [my Storm uber jar](https://github.com/desp0916/LearnStorm/). I encountered the shaded problem about ElasticSearch 2.3.2 for several days, and after many try-and-errors, I have finally figured out the solution. 
 
 If you are facing the same problem I met, this project might help you. You can modify `pom.xml` for your needs or resolve the problem about dependency conflicts.
 
